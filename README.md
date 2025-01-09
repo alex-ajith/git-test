@@ -19,3 +19,9 @@ Git basic commands
         git checkout main
 2. Fetch the latest changes from the remote repository
         git pull origin main
+
+
+
+LINKS:
+https://www.epicweb.dev/tutorials/git-fundamentals/commands/intro-to-git-fundamentals
+https://www.youtube.com/watch?v=8Dd7KRpKeaE
